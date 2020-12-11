@@ -6,10 +6,11 @@
 
 module.exports = {
     siteName: "Gridsome",
+    siteUrl: 'https://serene-nobel-605558.netlify.app/',
     plugins: [{
         use: "@gridsome/plugin-google-analytics",
         options: {
-            id: "G-RNTLGMMKGC",
+            id: "G-31KVR2ZEMN",
         },
     }, ],
 };
