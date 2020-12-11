@@ -6,3 +6,4 @@ node_modules
 dist
 .env
 .env.*
+vscode://vscode.github-authentication/did-authenticate?windowid=1&code=97765670f82d7d66efc2&state=07e2efd9-17fc-4a5d-9177-0159614de739
