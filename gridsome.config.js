@@ -9,7 +9,7 @@ module.exports = {
     plugins: [{
         use: "@gridsome/plugin-google-analytics",
         options: {
-            id: "G-RHXYV5YGVX",
+            id: "G-RNTLGMMKGC",
         },
     }, ],
 };
